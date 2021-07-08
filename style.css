@@ -22,7 +22,6 @@ body{
 	padding: 30px;
     background: #59CCB3;
     background-size: cover;
-   font-family: 'Raleway', sans-serif;
 }
 .wrap {
     width: 80%;
@@ -40,7 +39,7 @@ h1 {
     text-align: center;
 }
 .profile-main {
-    background: url(../images/1.png) no-repeat 0px 0px;
+    background: url(../avatar.png) no-repeat 0px 0px;
 	background-size:cover;
     width: 45%;
     margin: 20px auto;
@@ -129,7 +128,7 @@ h1 {
 	color: #333;
     text-align: center;
 }
-.social ul li a i.fa.fa-facebook,.social ul li a i.fa.fa-twitter,.social ul li a i.fa.fa-linkedin,.social ul li a i.fa.fa-google-plus{
+.social ul li a i.fa.fa-facebook,.social ul li a i.fa.fa-twitter,.social ul li a i.fa.fa-mobile-alt,.social ul li a i.fa.fa-google-plus{
     height: 40px;
     width: 40px;
     background: none;
@@ -153,7 +152,7 @@ h1 {
 .social ul li a i.fa.fa-twitter{
 	background: #1da1f2;
 }
-.social ul li a i.fa.fa-linkedin{
+.social ul li a i.fa.fa-mobile-alt{
 	background: #0077b5;
 }
 .social ul li a i.fa.fa-google-plus{
@@ -169,7 +168,7 @@ h1 {
     color: #1da1f2;
 	background:none;
 }
-.social ul li a i.fa.fa-linkedin:hover{
+.social ul li a i.fa.fa-mobile-alt:hover{
 	border: solid 2px #0077b5;
     color: #0077b5;
 	background:none;
