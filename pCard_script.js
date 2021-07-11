@@ -15,9 +15,11 @@ $(document).keydown(function(event) {
                     return false;
                 } else if (event.ctrlKey && event.shiftKey) {
                     return false;
+                } else if (event.ctrlKey && event.keyCode ==83) {
+                    return false;
                 }
             });
 $(document).on("contextmenu", function(e) {
-               e.preventDefault();
-               return false;
+                e.preventDefault();
+                return false;;
             });
