@@ -16,7 +16,7 @@ b{
 }
 
 .pCard_card {
-    width: 400px;
+    width: auto;
     height: 615px;
     margin: 50px auto;
     -webkit-border-radius: 30px;
