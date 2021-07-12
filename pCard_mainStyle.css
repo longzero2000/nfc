@@ -64,7 +64,7 @@ UP
 
 .pCard_card  .pCard_up {
     position: absolute;
-    width: 100%;
+    width: auto;
     height: 437px;
 	background-color:#55ACEE;
     background-image: url(avatar.png);
