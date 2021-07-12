@@ -11,7 +11,7 @@ body {
 	font-weight: bold;
 }
 p{
-	padding-top:20px;
+	padding-top:10px;
 	text-align: center;
 }
 b{
@@ -22,7 +22,7 @@ b{
 .pCard_card {
     max-width: 400px;
     height: 615px;
-    margin: 50px auto;
+    margin: 0px;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
@@ -47,7 +47,7 @@ Back
     position: absolute;
     left: 0;
     right: 0;
-    top: 30%;
+    top: 25%;
     margin-top: -139px;
     font-weight: 400;
     z-index: 1;
