@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Cổng thông tin tiêm chủng Covid</title>
+		<link rel="icon" type="image/x-icon" href="https://tiemchungcovid19.gov.vn/favicon.ico">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://kit.fontawesome.com/2c80a7eabc.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="./css/tiemchung.css">
+    </head>
+    <body>
+
+        <div class="pCard_card">
+            <div class="pCard_back">
+				<center>
+				<img src="https://tiemchungcovid19.gov.vn/assets/portal/img/u7.png" alt="Tiêm chủng" style="width:20%">
+				<h2><font color="white">ĐÃ TIÊM 2 MŨI VẮC XIN</font></h2>
+				<img src="./img/qr_tiemchung.png" alt="QR" style="width:50%">
+				<form>
+					<p>Họ và tên:<p>
+					<p>Nguyễn Văn Hải Long</p>
+					<p>Ngày sinh:</p>
+					<p>10/03/2000</p>
+					<p>CCCD/HC:</p>
+					<p>142970056</p>
+				</form>
+				</center>
+            </div>  
+        </div>
+		<script src="./js/jquery-1.12.1.min.js"></script>
+        <script src="./js/pCard_script.js"></script>
+    </body>
+    
+</html>
