@@ -11,7 +11,8 @@ body {
 	font-weight: bold;
 }
 p{
-	text-align: center;
+	text-align: left;
+	padding-left: 10%;
 }
 b{
 	float:left;
@@ -238,4 +239,19 @@ Down
     color: #334750;
     font-weight: 700;
     margin-top: 0;
+}
+//Tiem chung
+[class*=" icofont-"], [class^=icofont-] {
+    font-family: IcoFont!important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    line-height: 1;
+    -webkit-font-feature-settings: "liga";
+    -webkit-font-smoothing: antialiased;
 }
